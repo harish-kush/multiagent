@@ -1,0 +1,22 @@
+# LangChain and LCEL
+langchain
+langchain-core
+langchain-community
+
+# Gemini API Integration
+langchain-google-genai
+
+# ReAct Agents and Multi-Agent Orchestration
+langgraph
+
+# Tavily Search Tool
+langchain-tavily
+tavily-python
+
+# BeautifulSoup Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment Variables
+python-dotenv
